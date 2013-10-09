@@ -1,4 +1,4 @@
 vtiger-5.4-mailing
 ==================
 
-vTiger 5.4 Mailer Extension
+Don'T use this files, because it will crash your vtiger.
